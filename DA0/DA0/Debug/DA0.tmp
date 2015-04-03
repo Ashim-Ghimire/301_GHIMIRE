@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Aseem\Desktop\301_GHIMIRE\DA0\DA0\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Aseem\Desktop\301_GHIMIRE\DA0\DA0\DA0.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+  <FILE>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Aseem\Desktop\301_GHIMIRE\DA0\DA0\Debug/DA0.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA0.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA0.map</FILE>
+  <FILE>DA0.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <HIGH_PORTB2><FILE>C:\Users\Aseem\Desktop\301_GHIMIRE\DA0\DA0\DA0.asm</FILE><LINE>31</LINE></HIGH_PORTB2>
+  <DONE><FILE>C:\Users\Aseem\Desktop\301_GHIMIRE\DA0\DA0\DA0.asm</FILE><LINE>36</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>
