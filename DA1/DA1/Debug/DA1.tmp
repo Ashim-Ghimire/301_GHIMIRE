@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+  <FILE>C:\Program Files\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\Debug/DA1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1.map</FILE>
+  <FILE>DA1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NUMBERS_TO_PARSE><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>25</LINE></NUMBERS_TO_PARSE>
+  <NEW_NUMBER><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>36</LINE></NEW_NUMBER>
+  <DIV_THREE><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>42</LINE></DIV_THREE>
+  <DIV_SEVEN><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>55</LINE></DIV_SEVEN>
+  <SUM_THREE><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>49</LINE></SUM_THREE>
+  <DIV_SEVEN_LOOP><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>58</LINE></DIV_SEVEN_LOOP>
+  <NEXT_NUMBER><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>70</LINE></NEXT_NUMBER>
+  <SUM_SEVEN><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>65</LINE></SUM_SEVEN>
+  <DONE><FILE>C:\Users\Aseem\Documents\Atmel Studio\6.2\DA1\DA1\DA1.asm</FILE><LINE>75</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>
